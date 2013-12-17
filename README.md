@@ -4,7 +4,7 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 #open-souce-mouse
 
-マウスラビットキット
+D.oP　〜ドールマウスキット〜
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
