@@ -72,9 +72,10 @@ D.oP　〜ドールマウスキット〜
 
 ④布両面テープも型取って切りましょう
 
-/Users/sumie/Desktop/gh/P1200227.JPG
-/Users/sumie/Desktop/Outlook-2/P1200228.JPG
+![P1200227.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200227.JPG)
 
+
+![P1200228.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200228.JPG)
 
 
 （③と④完成）
@@ -119,6 +120,8 @@ D.oP　〜ドールマウスキット〜
 材料費：５００円以内
 
 難易度：★★☆☆☆
+
+
 
 
 
