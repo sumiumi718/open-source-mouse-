@@ -2,12 +2,6 @@
 ## input tags
 This document is made by [gitfab](http://gitfab.org)
 ---
-
-
-
-
-
-
 D.oP　〜ドールマウスキット〜
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -53,7 +47,7 @@ D.oP　〜ドールマウスキット〜
 
 ![P1200220.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200220.JPG)
 
-![P1200221.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200221.JPG)
+
 
 ![P1200222.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200222.JPG)
 
@@ -118,4 +112,10 @@ D.oP　〜ドールマウスキット〜
 難易度：★★☆☆☆
 
 
+
+![P1200221.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200221.JPG)
+
+![P1200223.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200223.JPG)
+
+![P1200226.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200226.JPG)
 ---
