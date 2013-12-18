@@ -23,7 +23,7 @@ D.oP　〜ドールマウスキット〜
 
 ♡材料（準備するもの）♡
 
-![P1200219.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200219.JPG)
+
 
 ①好きな布（フェルトがおすすめ）１枚１００円
 
@@ -50,18 +50,21 @@ D.oP　〜ドールマウスキット〜
 
 ②型を切りましょう（ぜんぶ）
 
-/Users/sumie/Desktop/Outlook-2/P1200220.JPG
-/Users/sumie/Desktop/Outlook-2/P1200221.JPG
-/Users/sumie/Desktop/Outlook-2/P1200222.JPG
 
+![P1200220.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200220.JPG)
 
+![P1200221.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200221.JPG)
+
+![P1200222.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200222.JPG)
 
 ③フェルトに型取って、フェルトを切りましょう
 
-/Users/sumie/Desktop/Outlook-2/P1200223.JPG
-/Users/sumie/Desktop/Outlook-2/P1200224.JPG
-/Users/sumie/Desktop/Outlook-2/P1200226.JPG
 
+![P1200223.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200223.JPG)
+
+![P1200224.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200224.JPG)
+
+![P1200226.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200226.JPG)
 
 
 ④布両面テープも型取って切りましょう
@@ -114,17 +117,5 @@ D.oP　〜ドールマウスキット〜
 
 難易度：★★☆☆☆
 
-![P1200220.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200220.JPG)
 
-![P1200221.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200221.JPG)
-
-![P1200222.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200222.JPG)
-
-![P1200223.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200223.JPG)
-
-![P1200224.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200224.JPG)
-
-![P1200225.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200225.JPG)
-
-![P1200226.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200226.JPG)
 ---
