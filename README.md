@@ -1,4 +1,4 @@
-# DoP-dool-mouce
+# open-source-mouse-
 ## input tags
 This document is made by [gitfab](http://gitfab.org)
 ---
