@@ -79,9 +79,9 @@ D.oP　〜ドールマウスキット〜
 
 
 （③と④完成）
-/Users/sumie/Desktop/Outlook-2/P1200229.JPG
 
 
+![P1200229.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200229.JPG)
 
 ⑤マウスに切った布両面テープを指定された位置に貼りましょう
 
@@ -130,4 +130,6 @@ D.oP　〜ドールマウスキット〜
 
 
 [img20131218_11541779.pdf](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/img20131218_11541779.pdf)
+
+
 ---
