@@ -79,14 +79,22 @@ D.oP　〜ドールマウスキット〜
 
 
 （③と④完成）
-/Users/sumie/Desktop/Outlook-2/P1200229.JPG
 
 
+![P1200229.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/dool-mouse-/gitfab/resources/P1200229.JPG)
 
 ⑤マウスに切った布両面テープを指定された位置に貼りましょう
 
-/Users/sumie/Desktop/Outlook-2/P1200233.JPG
-/Users/sumie/Desktop/Outlook-2/P1200230.JPG
+
+
+
+![P1200230.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/dool-mouse-/gitfab/resources/P1200230.JPG)
+
+
+
+
+![P1200233.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/dool-mouse-/gitfab/resources/P1200233.JPG)
+
 
 ・６は半分に切ってください
 
@@ -130,4 +138,7 @@ D.oP　〜ドールマウスキット〜
 
 
 [img20131218_11523772.pdf](https://raw.github.com/sumiumi718/input-your-repository-name/dool-mouse/gitfab/resources/img20131218_11523772.pdf)
+
+
+
 ---
