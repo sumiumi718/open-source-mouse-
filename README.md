@@ -2,7 +2,10 @@
 ## input tags
 This document is made by [gitfab](http://gitfab.org)
 ---
-#open-souce-mouse
+
+
+
+\#open-souce-mouse
 
 D.oP　〜ドールマウスキット〜
 
@@ -19,7 +22,7 @@ D.oP　〜ドールマウスキット〜
 
 ♡材料（準備するもの）♡
 
-
+/Users/sumie/Desktop/Outlook-2/P1200219.JPG
 
 ①好きな布（フェルトがおすすめ）１枚１００円
 
@@ -31,7 +34,6 @@ D.oP　〜ドールマウスキット〜
 
 ⑤型（ダウンロードしてください）
 
-
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 ♡作り方♡
@@ -40,17 +42,66 @@ D.oP　〜ドールマウスキット〜
 
 ①好きな型（４種類）好きなものをダウンロードして印刷しましょう（サイズA4)
 
+/Users/sumie/Desktop/Outlook-2/P1200218.JPG
+
+
+
 ②型を切りましょう（ぜんぶ）
+
+/Users/sumie/Desktop/Outlook-2/P1200220.JPG
+/Users/sumie/Desktop/Outlook-2/P1200221.JPG
+/Users/sumie/Desktop/Outlook-2/P1200222.JPG
+
+
 
 ③フェルトに型取って、フェルトを切りましょう
 
+/Users/sumie/Desktop/Outlook-2/P1200223.JPG
+/Users/sumie/Desktop/Outlook-2/P1200224.JPG
+/Users/sumie/Desktop/Outlook-2/P1200226.JPG
+
+
+
 ④布両面テープも型取って切りましょう
+
+/Users/sumie/Desktop/gh/P1200227.JPG
+/Users/sumie/Desktop/Outlook-2/P1200228.JPG
+
+
+
+（③と④完成）
+/Users/sumie/Desktop/Outlook-2/P1200229.JPG
+
+
 
 ⑤マウスに切った布両面テープを指定された位置に貼りましょう
 
+/Users/sumie/Desktop/Outlook-2/P1200233.JPG
+/Users/sumie/Desktop/Outlook-2/P1200230.JPG
+
+・６は半分に切ってください
+
+/Users/sumie/Desktop/Outlook-2/P1200232.JPG
+
+・横から見たとき
+
+/Users/sumie/Desktop/Outlook-2/P1200235.JPG
+/Users/sumie/Desktop/gh/P1200234.JPG
+/Users/sumie/Desktop/gh/P1200236.JPG
+
+
+
+
 ⑥切ったフェルトにも布両面テープを指定された位置に貼りましょう
 
+/Users/sumie/Desktop/gh/P1200231.JPG
+
+
 ⑦完成です
+
+/Users/sumie/Desktop/gh/P1200237.JPG
+/Users/sumie/Desktop/gh/P1200238.JPG
+
 
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -60,30 +111,5 @@ D.oP　〜ドールマウスキット〜
 材料費：５００円以内
 
 難易度：★★☆☆☆
-
-
-![720286853325.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720286853325.jpg)
-
-![720286897801.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720286897801.jpg)
-
-![720286938582.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720286938582.jpg)
-
-![720286970482.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720286970482.jpg)
-
-![720287032306.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720287032306.jpg)
-
-![720287049251.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720287049251.jpg)
-
-![720287040674.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720287040674.jpg)
-
-![720297763923.jpg](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/720297763923.jpg)
-
-
-
-
-
-
-
-
 
 ---
