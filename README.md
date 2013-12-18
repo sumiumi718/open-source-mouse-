@@ -111,16 +111,17 @@ D.oP　〜ドールマウスキット〜
 
 ⑥切ったフェルトにも布両面テープを指定された位置に貼りましょう
 
-/Users/sumie/Desktop/gh/P1200231.JPG
 
+
+
+
+![P1200231.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200231.JPG)
 
 ⑦完成です
 
-/Users/sumie/Desktop/gh/P1200237.JPG
-/Users/sumie/Desktop/gh/P1200238.JPG
+![P1200237.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200237.JPG)
 
-
-
+![P1200238.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200238.JPG)
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 製作時間：１０分
@@ -138,6 +139,8 @@ D.oP　〜ドールマウスキット〜
 
 
 [img20131218_11541779.pdf](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/img20131218_11541779.pdf)
+
+
 
 
 
