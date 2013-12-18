@@ -5,7 +5,8 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 
-\#open-souce-mouse
+
+
 
 D.oP　〜ドールマウスキット〜
 
@@ -22,7 +23,7 @@ D.oP　〜ドールマウスキット〜
 
 ♡材料（準備するもの）♡
 
-/Users/sumie/Desktop/Outlook-2/P1200219.JPG
+![P1200219.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200219.JPG)
 
 ①好きな布（フェルトがおすすめ）１枚１００円
 
@@ -42,7 +43,8 @@ D.oP　〜ドールマウスキット〜
 
 ①好きな型（４種類）好きなものをダウンロードして印刷しましょう（サイズA4)
 
-/Users/sumie/Desktop/Outlook-2/P1200218.JPG
+![P1200218.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200218.JPG)
+\#open-souce-mouse
 
 
 
@@ -111,5 +113,4 @@ D.oP　〜ドールマウスキット〜
 材料費：５００円以内
 
 難易度：★★☆☆☆
-
 ---
