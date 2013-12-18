@@ -19,6 +19,8 @@ D.oP　〜ドールマウスキット〜
 
 
 
+![P1200219.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200219.JPG)
+
 ①好きな布（フェルトがおすすめ）１枚１００円
 
 ②布両面テープ　約１００円
