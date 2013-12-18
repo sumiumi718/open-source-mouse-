@@ -4,6 +4,7 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 D.oP　〜ドールマウスキット〜
 
+#open-souce-mouse
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 ペリペリはがせて着せ替え可能♪
@@ -40,9 +41,13 @@ D.oP　〜ドールマウスキット〜
 ①好きな型（４種類）好きなものをダウンロードして印刷しましょう（サイズA4)
 
 ![P1200218.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200218.JPG)
-\#open-souce-mouse
+\
 
 
+
+free.ver
+
+[img20131218_11541779.pdf](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/img20131218_11541779.pdf)
 
 ②型を切りましょう（ぜんぶ）
 
@@ -135,10 +140,6 @@ D.oP　〜ドールマウスキット〜
 
 
 
-
-
-
-[img20131218_11541779.pdf](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/img20131218_11541779.pdf)
 
 
 
