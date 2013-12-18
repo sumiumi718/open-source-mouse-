@@ -93,14 +93,19 @@ D.oP　〜ドールマウスキット〜
 
 ・６は半分に切ってください
 
-/Users/sumie/Desktop/Outlook-2/P1200232.JPG
+
+
+
+![P1200232.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200232.JPG)
+
 
 ・横から見たとき
 
-/Users/sumie/Desktop/Outlook-2/P1200235.JPG
-/Users/sumie/Desktop/gh/P1200234.JPG
-/Users/sumie/Desktop/gh/P1200236.JPG
+![P1200234.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200234.JPG)
 
+![P1200235.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200235.JPG)
+
+![P1200236.JPG](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/P1200236.JPG)
 
 
 
@@ -133,6 +138,9 @@ D.oP　〜ドールマウスキット〜
 
 
 [img20131218_11541779.pdf](https://raw.github.com/sumiumi718/input-your-repository-name/master/gitfab/resources/img20131218_11541779.pdf)
+
+
+
 
 
 
